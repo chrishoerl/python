@@ -1,1 +1,1 @@
-print("Der Himmel ist blau, das Wasser ist nass!")
+print("Wer bist du denn dass du nicht weisst dass Phantasien grenzenlos?")
