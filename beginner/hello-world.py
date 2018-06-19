@@ -1,1 +1,1 @@
-print("Hello, World!")
+print("Der Himmel ist blau, das Wasser ist nass!")
