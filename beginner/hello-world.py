@@ -1,1 +1,1 @@
-print("Wer bist du denn dass du nicht weisst dass Phantasien grenzenlos?")
+print("Wer bist du denn dass du nicht weisst dass Phantasien grenzenlos ist?")
